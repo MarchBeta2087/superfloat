@@ -5,7 +5,7 @@
 
 然后创建你要使用的python代码文件，第一行输入import superfloat
 
-若要创建一个类型为superfloat的变量，可以给变量赋值superfloat.superfloat(0)或者superfloat.superfloat(0,0)（0也可以换成其他数值）
+若要创建一个类型为superfloat的变量，可以给变量赋值superfloat.superfloat(0)或者superfloat.superfloat(0,0)（0也可以换成其他数值，如果只有1个项那就是将int、float或string转换成superfloat类型，如果有2个项，那就是给变量赋一个类型为superfloat并用来表示第一个项乘以10的第二个项次方的值）
 
 支持superfloat与int、float、string的相互转换。
 
@@ -15,7 +15,7 @@ Download superfloat.py, then, put superfloat.py into the folder where the python
 
 Then, create the python code files what you will use, input import superfloat in the first line.
 
-To create a variable with type of superfloat, you can make the variable equals to superfloat.superfloat(0) or superfloat.superfloat(0,0), of course, you can replace 0 into other numbers.
+To create a variable with type of superfloat, you can make the variable equals to superfloat.superfloat(0) or superfloat.superfloat(0,0), of course, 0 can also be replaced with other values. If there is only one item, that is to convert int, float, or string to superfloat. If there are two items, that is to give the variable a value of type superfloat that represents the value of the first item multiplied by 10 to the second item power.
 
 It supports superfloat to and from int, float, string conversion.
 
