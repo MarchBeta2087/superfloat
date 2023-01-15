@@ -2,7 +2,7 @@
 
 # Security Policy
 
-##支持的版本
+## 支持的版本
 
 支持的Python版本：Python 3.6，Python 3.7，Python 3.8，Python 3.9，Python 3.10，Python 3.11
 
@@ -10,7 +10,7 @@
 
 Supported Python Versions: Python 3.6, Python 3.7, Python 3.8, Python 3.9, Python 3.10, Python 3.11
 
-##报告漏洞
+## 报告漏洞
 
 使用本节告诉人们如何报告漏洞。
 
